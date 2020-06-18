@@ -4,9 +4,9 @@ Simple data processing on COVID-19 dataset for Hadoop and MapReduce warm up, usi
 
 ## Basic data analysis implementations:
 
-    1. Count the total number of reported cases for every country/location till April 8th, 2020
-    2. Report total number of deaths for every location/country in between a given range of dates
-    3. Count the total number of cases per 1 million population for every country
+    1. Count the total number of reported cases for every country/location till April 8th, 2020 (case_count_country_wise.java)
+    2. Report total number of deaths for every location/country in between a given range of dates (death_count.java)
+    3. Count the total number of cases per 1 million population for every country (cases_per_million_pop.java)
 
 ## Instructions for running:
 
